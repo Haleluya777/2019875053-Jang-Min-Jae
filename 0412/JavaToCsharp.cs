@@ -1,6 +1,6 @@
 using System;
 
-namespace CSharpStudy
+namespace namespaceA
 {
     public interface Stack
     {
